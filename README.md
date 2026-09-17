@@ -158,7 +158,7 @@ plt.show()
 
 
 # Print number of detected coins
-print(f"Number of coins detected: {len(keypoints)}")
+print(f"Number of shells detected: {len(keypoints)}")
 ```
 # Output
 <img width="732" height="482" alt="Screenshot 2026-09-16 213340" src="https://github.com/user-attachments/assets/ed0d4580-76ac-4076-b66c-0f08ba1944a5" />
